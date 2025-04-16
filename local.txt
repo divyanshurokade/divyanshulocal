@@ -1,0 +1,2 @@
+This is a sample file that I created to test whether Git would assess it or not.
+Hi!
